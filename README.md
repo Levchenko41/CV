@@ -25,8 +25,6 @@
 
 ---
 
-#### Objective
-
 #### About me
 
 I am fond of science and nature around me, very much inspired when natural processes are described by mathematical and program functions. I have a great desire to study and develop in the field of software. I want to turn my hobby into work. My strengths are curiosity, persistence, humility.
@@ -34,8 +32,6 @@ I am fond of science and nature around me, very much inspired when natural proce
 ---
 
 #### Skills
-
-Basic knowledge:
 
 - C#
 - JS
@@ -50,6 +46,10 @@ Basic knowledge:
 
 - GitHub:
   www.github.com/Levchenko41
+- Colculator:
+  https://levchenko41.github.io/calculator/
+- Virtual-piano:
+  https://levchenko41.github.io/virtual-piano/
 
 ---
 
