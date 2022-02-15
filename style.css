@@ -26,7 +26,7 @@
       margin:auto;
       padding:20px 30px;
    max-width: 760px;
-    background: #d4c8c8;
+    background: #d1caca;
     display: grid;
     grid-template-columns: 1fr 3fr;
    
@@ -59,4 +59,7 @@
 }
 h3{
     margin-top: 20px;
+}
+.namePosition{
+  font-size: 30px;
 }
