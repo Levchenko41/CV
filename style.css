@@ -100,14 +100,13 @@ h3 {
     font-size: 35px;
   }
 
-  .left::before {
+  .left{
     margin-left: 30px;
   }
 
   .center {
     border-left: none;
     padding-left: 0px;
-    margin-left: 0px;
     margin-left: 30px;
     margin-top: 15px;
   }
